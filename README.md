@@ -8,7 +8,7 @@ This repository does not consider
 
 ## Contents
  - [Action Recognition and Video Understanding](#action-recognition-and-video-understanding)
- - [Academic organisations](#Academic organisations)
+ - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
 
@@ -19,9 +19,10 @@ This repository does not consider
 * [Literature Survey: Human Action Recognition](https://towardsdatascience.com/literature-survey-human-action-recognition-cc7c3818a99a) - Brief human action recognition literature survey of work published between 2014 and 2019.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition#pose-estimation)
 * [Paper and Code on Action Recognition](https://paperswithcode.com/task/action-recognition-in-videos) - includes benchmarks, libraries, datasets, etc.
-* 
+
 
 ## Academic organisations
+
 * [Human Action Recognition](https://www.turing.ac.uk/research/research-projects/human-action-recognition) - the ‘path signature’ technique is being used to represent streamed body pose data.
 * 
 
