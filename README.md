@@ -21,7 +21,7 @@ This repository does not consider
 
 ## Academic organisations
 
-* [Human Action Recognition](https://www.turing.ac.uk/research/research-projects/human-action-recognition) - the ‘path signature’ technique is being used to represent streamed body pose data.
+* [Human Action Recognition, The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/human-action-recognition) - the ‘path signature’ technique is being used to represent streamed body pose data.
 * 
 
 
