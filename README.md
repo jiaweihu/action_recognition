@@ -1,9 +1,13 @@
 # Action Recognition
 
-Related keywords: action classification, video classification, activity recognition, plan recognition, goal recognition, intent recognition, behavior recognition, location estimation and etc.
+Action recognition is one of the subjects in computer vision and machine learning. The related keywords can include action classification, video classification, activity recognition, plan recognition, goal recognition, intent recognition, behavior recognition, location estimation and etc.
 
-This repository does not consider
--  Sensor-based, single-user activity recognition
+More specifically, the recognition of sport activities, such as yoga, taiji, are mainly considered in this project, with the aim of answerring the following questions:
+- "What action?" (i.e., the recognition problem) 
+- "Where in the video?" (i.e., the localization problem)
+
+
+![image](https://user-images.githubusercontent.com/5849622/153772250-027ef4b6-d087-4c5b-8c58-c45bbfe8523c.png)
 
 
 ## Contents
