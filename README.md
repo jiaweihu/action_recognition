@@ -9,7 +9,6 @@ More specifically, the recognition of sport activities, such as yoga, taiji, are
 ## Review articles
 [A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
 
-![image](https://user-images.githubusercontent.com/5849622/153772250-027ef4b6-d087-4c5b-8c58-c45bbfe8523c.png)
 
 
 ## Contents
