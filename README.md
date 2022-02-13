@@ -7,14 +7,12 @@ This repository does not consider
 
 
 ## Contents
- - [Action Recognition and Video Understanding](#action-recognition-and-video-understanding)
+ - [Summary posts](#Summary-posts)
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
 
-## Action Recognition and Video Understanding
-
-### Summary posts
+## Summary posts
 * [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567) - Summary of video action recognition research papers till 2020
 * [Literature Survey: Human Action Recognition](https://towardsdatascience.com/literature-survey-human-action-recognition-cc7c3818a99a) - Brief human action recognition literature survey of work published between 2014 and 2019.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition#pose-estimation)
