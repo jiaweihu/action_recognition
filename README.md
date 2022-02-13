@@ -7,7 +7,13 @@ More specifically, the recognition of sport activities, such as yoga, taiji, are
 - "Where in the video?" (i.e., the localization problem)
 
 ## Review articles
-[A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
+* [A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
+* [Which one is the best algorithm for video action recognition?](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f) - GluonCV 0.9.0 provides a large model zoo for video action recognition and tutorial
+* 
+## Areas of interest
+[Teaching Computers to Recognize Human Actions in Videos](https://towardsdatascience.com/teaching-computers-to-recognize-human-actions-in-videos-81b2e2d62768) - -Predict & cluster: Unsupervised skeleton based action recognition
+- PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition, Kun Su, Xiulong Liu, Eli Shlizerman, https://arxiv.org/abs/1911.12409
+- https://towardsdatascience.com/tagged/action-recognition
 
 
 
