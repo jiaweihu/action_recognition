@@ -6,6 +6,8 @@ More specifically, the recognition of sport activities, such as yoga, taiji, are
 - "What action?" (i.e., the recognition problem) 
 - "Where in the video?" (i.e., the localization problem)
 
+## Review articles
+[A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
 
 ![image](https://user-images.githubusercontent.com/5849622/153772250-027ef4b6-d087-4c5b-8c58-c45bbfe8523c.png)
 
@@ -26,7 +28,7 @@ More specifically, the recognition of sport activities, such as yoga, taiji, are
 ## Academic organisations
 
 * [Human Action Recognition, The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/human-action-recognition) - the ‘path signature’ technique is being used to represent streamed body pose data.
-* 
+* _[Action Recognition in Video, University of waterloo](https://uwaterloo.ca/vision-image-processing-lab/research-demos/action-recognition-video) - on local salient motion feature detection, action representation, and action classification_
 
 
 
@@ -43,6 +45,4 @@ More specifically, the recognition of sport activities, such as yoga, taiji, are
 ### Competitions
 * [ActEV (Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
-## Contributing
-Please contact Jiawei Hu - [@jiaweihu], https://twitter.com/jiaweihu
 
