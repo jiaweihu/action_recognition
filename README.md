@@ -59,6 +59,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ### Articles
 [Human Action Recognition using Detectron2 and LSTM](https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/)
+- Code: https://github.com/spmallick/learnopencv/tree/master/Human-Action-Recognition-Using-Detectron2-And-Lstm
 
 ### Datasets
 [RNN for Human Activity Recognition - 2D Pose Input](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input#dataset-overview)
