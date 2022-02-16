@@ -56,7 +56,12 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [ActEV (Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
 ## The relavant pages
+
+### Articles
 [Human Action Recognition using Detectron2 and LSTM](https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/)
+
+### Datasets
+[RNN for Human Activity Recognition - 2D Pose Input](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input#dataset-overview)
 
 
 
