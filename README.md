@@ -12,6 +12,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
+ - [The relavant pages](#The-relavant-pages)
 
 ## Review articles
 * [A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
@@ -53,5 +54,9 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ### Competitions
 * [ActEV (Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
+
+## The relavant pages
+[Human Action Recognition using Detectron2 and LSTM](https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/)
+
 
 
