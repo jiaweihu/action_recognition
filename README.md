@@ -8,7 +8,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ## Contents
  - [Summary review articles](#Review-articles)
- - [Area of interest](#Area-of-interes)
+ - [Areas of interest](#Area-of-interes)
  - [Commercial systems](#Commercial-systems)
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
