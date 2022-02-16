@@ -9,7 +9,6 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 ## Contents
  - [Summary review articles](#Review-articles)
  - [Areas of interest](#Area-of-interes)
- - [Commercial systems](#Commercial-systems)
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
@@ -26,9 +25,6 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 [Teaching Computers to Recognize Human Actions in Videos](https://towardsdatascience.com/teaching-computers-to-recognize-human-actions-in-videos-81b2e2d62768) - -Predict & cluster: Unsupervised skeleton based action recognition
 - PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition, Kun Su, Xiulong Liu, Eli Shlizerman, https://arxiv.org/abs/1911.12409
 - https://towardsdatascience.com/tagged/action-recognition
-
-## Commercial systems
-* [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
 
 
 
@@ -47,6 +43,11 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [OpenPose Library, CMU](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Caffe based realtime pose estimation library from CMU.
 * [GluonCV](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f), a Deep Learning Toolkit for Computer Vision 
 * [Detectron2, Facebook AI Research](https://github.com/facebookresearch/detectron2/), detection and segmentation algorithms 
+
+### Commercial systems
+* [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
+
+
 
 ## Competitions
 
