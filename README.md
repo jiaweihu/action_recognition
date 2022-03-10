@@ -60,7 +60,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 ## Pose analysis cases
 
 ### Building a Body Posture Analysis System using MediaPipe
-* [LearnOpenCV (Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
+* [LearnOpenCV Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
 
 ## The relavant pages
 
