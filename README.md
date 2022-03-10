@@ -12,6 +12,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
+ - [Pose analysis cases](#Pose-analysis-cases)
  - [The relavant pages](#The-relavant-pages)
 
 ## Review articles
@@ -55,6 +56,11 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ### Competitions
 * [ActEV (Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
+
+## Pose analysis cases
+
+### Building a Body Posture Analysis System using MediaPipe
+* [LearnOpenCV (Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
 
 ## The relavant pages
 
