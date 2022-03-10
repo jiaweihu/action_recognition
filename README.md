@@ -61,6 +61,8 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ### Building a Body Posture Analysis System using MediaPipe
 * [LearnOpenCV: Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
+### Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model
+* [Nicholas Renotte: Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro&t=5272s) - Hand action recognition, code: https://github.com/nicknochnack/ActionDetectionforSignLanguage
 
 ## The relavant pages
 
