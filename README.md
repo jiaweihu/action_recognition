@@ -22,6 +22,8 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [Literature Survey: Human Action Recognition](https://towardsdatascience.com/literature-survey-human-action-recognition-cc7c3818a99a) - Brief human action recognition literature survey of work published between 2014 and 2019.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition#pose-estimation)
 * [Paper and Code on Action Recognition](https://paperswithcode.com/task/action-recognition-in-videos) - includes benchmarks, libraries, datasets, etc.
+* [A gentle introduction to human activity recognition](https://indatalabs.com/blog/human-activity-recognition?utm_source=facebook-gr&utm_medium=sharing&fbclid=IwAR0Iqkq4gVztJxpFnpUZWsc6lnnwRhmV4gv1gHtj_ZBQL6OX6-33fW4fpAE) - from Indatalabs, involves data acquisition, pre-processing, feature extraction, classification.
+* 
 
 ## Areas of interest
 [Teaching Computers to Recognize Human Actions in Videos](https://towardsdatascience.com/teaching-computers-to-recognize-human-actions-in-videos-81b2e2d62768) - -Predict & cluster: Unsupervised skeleton based action recognition
