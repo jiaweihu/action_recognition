@@ -7,8 +7,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 - "Where in the video?" (i.e., the localization problem)
 
 ## Contents
- - [Summary review articles](#Review-articles)
- - [Areas of interest](#Area-of-interes)
+ - [Review articles](#Review-articles)
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
@@ -25,10 +24,6 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [A gentle introduction to human activity recognition](https://indatalabs.com/blog/human-activity-recognition?utm_source=facebook-gr&utm_medium=sharing&fbclid=IwAR0Iqkq4gVztJxpFnpUZWsc6lnnwRhmV4gv1gHtj_ZBQL6OX6-33fW4fpAE) - from Indatalabs, involves data acquisition, pre-processing, feature extraction, classification.
 * 
 
-## Areas of interest
-[Teaching Computers to Recognize Human Actions in Videos](https://towardsdatascience.com/teaching-computers-to-recognize-human-actions-in-videos-81b2e2d62768) - -Predict & cluster: Unsupervised skeleton based action recognition
-- PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition, Kun Su, Xiulong Liu, Eli Shlizerman, https://arxiv.org/abs/1911.12409
-- https://towardsdatascience.com/tagged/action-recognition
 
 
 
@@ -75,5 +70,9 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 ### Datasets
 [RNN for Human Activity Recognition - 2D Pose Input](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input#dataset-overview)
 
+### Areas of interest
+[Teaching Computers to Recognize Human Actions in Videos](https://towardsdatascience.com/teaching-computers-to-recognize-human-actions-in-videos-81b2e2d62768) - -Predict & cluster: Unsupervised skeleton based action recognition
+- PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition, Kun Su, Xiulong Liu, Eli Shlizerman, https://arxiv.org/abs/1911.12409
+- https://towardsdatascience.com/tagged/action-recognition
 
 
