@@ -35,7 +35,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [OpenPose Library, CMU](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Caffe based realtime pose estimation library from CMU.
 * [GluonCV](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f), a Deep Learning Toolkit for Computer Vision 
 * [Detectron2, Facebook AI Research](https://github.com/facebookresearch/detectron2/), detection and segmentation algorithms 
-* [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body andrun faster than real time (30+ FPS) 
+* [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body and run faster than real time (30+ FPS) 
 
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
