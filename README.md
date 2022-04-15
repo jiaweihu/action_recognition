@@ -47,8 +47,6 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 
 ## Competitions
-
-### Competitions
 * [ActEV: Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
 ## Pose analysis cases
