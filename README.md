@@ -40,14 +40,14 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
 
+
+### Pose analysis cases
+* [LearnOpenCV: Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert using MediaPipe.
+* [Nicholas Renotte: Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro&t=5272s) - Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model, code: https://github.com/nicknochnack/ActionDetectionforSignLanguage
+
 ## Competitions
 * [ActEV: Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
-## Pose analysis cases
-### Building a Body Posture Analysis System using MediaPipe
-* [LearnOpenCV: Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
-### Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model
-* [Nicholas Renotte: Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro&t=5272s) - Hand action recognition, code: https://github.com/nicknochnack/ActionDetectionforSignLanguage
 
 ## The relavant pages
 ### Articles
