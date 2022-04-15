@@ -25,14 +25,11 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 
 ## Academic organisations
-
 * [Human Action Recognition, The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/human-action-recognition) - the ‘path signature’ technique is being used to represent streamed body pose data.
 * _[Action Recognition in Video, University of waterloo](https://uwaterloo.ca/vision-image-processing-lab/research-demos/action-recognition-video) - on local salient motion feature detection, action representation, and action classification_
 
 
-
 ## Pose Estimation
-
 ### Pose Estimation Platform
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
 * [Google mediapipe](https://google.github.io/mediapipe/) - MediaPipe offers cross-platform, customizable ML solutions for live and streaming media..
@@ -44,20 +41,16 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
 
-
-
 ## Competitions
 * [ActEV: Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
 ## Pose analysis cases
-
 ### Building a Body Posture Analysis System using MediaPipe
 * [LearnOpenCV: Body Posture Analysis](https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/?ck_subscriber_id=1142852616) - An introduction sample using side view to build posture alert.
 ### Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model
 * [Nicholas Renotte: Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro&t=5272s) - Hand action recognition, code: https://github.com/nicknochnack/ActionDetectionforSignLanguage
 
 ## The relavant pages
-
 ### Articles
 [Human Action Recognition using Detectron2 and LSTM](https://learnopencv.com/human-action-recognition-using-detectron2-and-lstm/)
 - Code: https://github.com/spmallick/learnopencv/tree/master/Human-Action-Recognition-Using-Detectron2-And-Lstm
