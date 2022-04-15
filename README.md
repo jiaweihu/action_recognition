@@ -10,7 +10,6 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
  - [Academic organisations](#Academic-organisations)
  - [Pose Estimation](#pose-estimation)
  - [Competitions](#competitions)
- - [Pose analysis cases](#Pose-analysis-cases)
  - [The relavant pages](#The-relavant-pages)
 
 ## Review articles
