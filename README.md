@@ -32,6 +32,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 * [VISO.AI, Human Pose Estimation with Deep Learning – Ultimate Overview in 2022](https://viso.ai/deep-learning/pose-estimation-ultimate-overview/) - by Elisha Odemakinde, promoting VISO Suite
 * [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - by Mrinal Singh Walia
 * [V7labs: A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide#:~:text=Human%20Pose%20Estimation%20(HPE)%20is,is%20known%20as%20a%20pair.) - by Nilesh Barla, PerceptronAI
+* [Human pose estimation with deep learning: Overview for 2022](https://blog.superannotate.com/human-pose-estimation-with-deep-learning/?msclkid=8a7ae7edc24311ecb8e6e3c985afb67e) - blog of superannotate
 
 ### Pose Estimation Platform
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
