@@ -29,6 +29,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ## Pose Estimation
 ### Human Pose Estimation Literature
+* [VISO.AI, Human Pose Estimation with Deep Learning – Ultimate Overview in 2022](https://viso.ai/deep-learning/pose-estimation-ultimate-overview/) - by Elisha Odemakinde, promoting VISO Suite
 * [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - by Mrinal Singh Walia
 * [V7labs: A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide#:~:text=Human%20Pose%20Estimation%20(HPE)%20is,is%20known%20as%20a%20pair.) - by Nilesh Barla, PerceptronAI
 
