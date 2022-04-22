@@ -28,6 +28,9 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 
 ## Pose Estimation
+### Human Pose Estimation Literature
+* [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - A Comprehensive Guide on Human Pose Estimation.
+
 ### Pose Estimation Platform
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
 * [Google mediapipe](https://google.github.io/mediapipe/) - MediaPipe offers cross-platform, customizable ML solutions for live and streaming media..
