@@ -41,6 +41,7 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
+* [AI Pose Estimation Engine, next-system](https://www.next-system.com/en/visionpose) - Visionpose, real-time 2D/3D human skeleton detection with 30 keypoints.
 
 
 ### Pose analysis cases
