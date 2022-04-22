@@ -29,7 +29,8 @@ In this lierature review, the recognition of sport activities, such as yoga, tai
 
 ## Pose Estimation
 ### Human Pose Estimation Literature
-* [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - A Comprehensive Guide on Human Pose Estimation.
+* [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - by Mrinal Singh Walia
+* [V7labs: A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide#:~:text=Human%20Pose%20Estimation%20(HPE)%20is,is%20known%20as%20a%20pair.) - by Nilesh Barla, PerceptronAI
 
 ### Pose Estimation Platform
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
