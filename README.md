@@ -69,4 +69,9 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 - PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition, Kun Su, Xiulong Liu, Eli Shlizerman, https://arxiv.org/abs/1911.12409
 - https://towardsdatascience.com/tagged/action-recognition
 
+### Relevant applications
+- AI powered personal trainers. Keeping physical well-being is an important part of our life these days. A good trainer can be very helpful for us to reach desired fitness level. The market is becoming saturated with apps that harness the power of AI to guide training. For instance, Zenia (https://apps.apple.com/us/app/yoga-for-beginners-zenia-app/id1483602673) is an AI-powered yoga app that guides you towards achieving a proper posture. It uses the camera to detect your pose and estimates how accurate your pose is—if it is correct, then the predicted pose will be represented in green, just like in the image above. If the pose isn't correct, the red color will replace the green one.
+Apart from yoga, applications can also be found in other forms of exercise. For example, it is now commonly used in weight lifting, where it can guide app users to perform a proper weight-lift by searching for common mistakes and providing insights on how to fix them to prevent injuries.
+
+
 
