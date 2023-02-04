@@ -46,7 +46,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
 * [AI Pose Estimation Engine, next-system](https://www.next-system.com/en/visionpose) - Visionpose, real-time 2D/3D human skeleton detection with 30 keypoints.
-* [Mobile Computer Vision & AI solutions](https://www.newstream.ai/) - The world’s fastest Biomechanics Analysis Solution for mobile phone
+* [Mobile Computer Vision & AI solutions](https://www.newstream.ai/) - Newstream, the world’s fastest Biomechanics Analysis Solution for mobile phone
 
 
 ### Pose analysis cases
