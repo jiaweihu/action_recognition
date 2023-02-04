@@ -2,8 +2,9 @@
 Action recognition is one of the subjects in computer vision and machine learning. The related keywords can include action classification, video classification, activity recognition, body motion analysis, pose analysis, plan recognition, goal recognition, intent recognition, behavior recognition, location estimation and etc.
 
 Action recognition has been progrerssing very quickly, covering the field of gaming, healthcare, augmented reality, sport and etc. In this lierature review, the recognition of sport activities, such as yoga, taiji, are mainly considered, with the aim of focusing the following aspects:
-- Key points and their connections
-- Action identification 
+- Identification and classification specific points/joints on the human body, including ankles, knees, shoulders, elbows, wrists, etc.
+- Knowing the angle of the joint connections
+- Action classification based on the joints 
 - Understand geometric and motion information of the human body
 
 ## Contents
