@@ -44,6 +44,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [Detectron2, Facebook AI Research](https://github.com/facebookresearch/detectron2/), detection and segmentation algorithms 
 * [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body and run faster than real time (30+ FPS) 
 * [Posenete, Google Research](https://github.com/tensorflow/tfjs-models/tree/master/posenet), uses a Convolution Neural Network (CNN) model to regress pose from a single RGB image. It can also be used in the real-time system providing a 5ms/frame speed. 
+* [DCPose, Deep Dual Consecutive Network](https://github.com/Pose-Group/DCPose/), developed to detect human pose from multiple frames 
 
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
