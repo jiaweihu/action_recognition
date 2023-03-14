@@ -43,6 +43,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [GluonCV](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f), a Deep Learning Toolkit for Computer Vision 
 * [Detectron2, Facebook AI Research](https://github.com/facebookresearch/detectron2/), detection and segmentation algorithms 
 * [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body and run faster than real time (30+ FPS) 
+* [Posenete, Google Research](https://github.com/tensorflow/tfjs-models/tree/master/posenet), uses a Convolution Neural Network (CNN) model to regress pose from a single RGB image. It can also be used in the real-time system providing a 5ms/frame speed. 
 
 ### Commercial systems
 * [Action recognition, Google](https://cloud.google.com/video-intelligence/automl/docs/action-recognition) - cloud service for video classification and object tracking.
