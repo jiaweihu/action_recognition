@@ -42,7 +42,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [OpenPose Library, CMU](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Caffe based realtime pose estimation library from CMU.
 * [GluonCV](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f), a Deep Learning Toolkit for Computer Vision 
 * [Detectron2, Facebook AI Research](https://github.com/facebookresearch/detectron2/), detection and segmentation algorithms 
-* [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body and run faster than real time (30+ FPS) 
+* [MoveNet: Ultra fast and accurate pose detection model, Tensorflow](https://www.tensorflow.org/hub/tutorials/movenet), models that detect 17 keypoints of a body and run faster than real time (30+ FPS), [Human Pose Classification with MoveNet and TensorFlow Lite](https://www.tensorflow.org/lite/tutorials/pose_classification#code_to_run_pose_estimation_using_movenet) 
 * [Posenete, Google Research](https://github.com/tensorflow/tfjs-models/tree/master/posenet), uses a Convolution Neural Network (CNN) model to regress pose from a single RGB image. It can also be used in the real-time system providing a 5ms/frame speed. 
 * [DCPose, Deep Dual Consecutive Network](https://github.com/Pose-Group/DCPose/), developed to detect human pose from multiple frames 
 
