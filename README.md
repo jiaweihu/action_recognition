@@ -51,6 +51,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [AI Pose Estimation Engine, next-system](https://www.next-system.com/en/visionpose) - Visionpose, real-time 2D/3D human skeleton detection with 30 keypoints.
 * [Mobile Computer Vision & AI solutions](https://www.newstream.ai/) - Newstream, the world’s fastest Biomechanics Analysis Solution for mobile phone
 * [QuickPose AI](https://quickpose.ai/) and [QuickPose AI Docs](https://docs.quickpose.ai/) - QuickPose AI, Measure, track and monitor any pose
+* [Zenia App](https://zenia.app/) - Virtual Yoga Studio
 
 
 ### Pose analysis cases
