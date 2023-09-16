@@ -52,7 +52,7 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [Mobile Computer Vision & AI solutions](https://www.newstream.ai/) - Newstream, the world’s fastest Biomechanics Analysis Solution for mobile phone
 * [QuickPose AI](https://quickpose.ai/) and [QuickPose AI Docs](https://docs.quickpose.ai/) - QuickPose AI, Measure, track and monitor any pose
 * [Zenia App](https://zenia.app/) - Virtual Yoga Studio
-* [Xyonix](https://zenia.app/) - Virtual Yoga Studio
+* [Xyonix](https://www.xyonix.com/) - automatically analyze the body in motion and generate meaningful measurements
 * [Xyonix](https://www.xyonix.com/solutions/body-pose-analysis) - automatically analyze the body in motion and generate meaningful measurements
 
 
