@@ -53,6 +53,8 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 * [QuickPose AI](https://quickpose.ai/) and [QuickPose AI Docs](https://docs.quickpose.ai/) - QuickPose AI, Measure, track and monitor any pose
 * [Zenia App](https://zenia.app/) - Virtual Yoga Studio
 * [Xyonix](https://www.xyonix.com/) - automatically analyze the body in motion and generate meaningful measurements
+* [Encord](https://encord.com/blog/action-classification-guide/) - use Action Classifications In Video Annotation
+* 
 
 
 ### Pose analysis cases
