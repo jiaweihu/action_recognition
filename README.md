@@ -15,6 +15,10 @@ Action recognition has been progrerssing very quickly, covering the field of gam
  - [The relavant pages](#The-relavant-pages)
 
 ## Review articles
+* [VISO.AI: Human Pose Estimation with Deep Learning – Ultimate Overview in 2024](https://viso.ai/deep-learning/pose-estimation-ultimate-overview/) - by Elisha Odemakinde, promoting VISO Suite
+* [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - by Mrinal Singh Walia
+* [V7labs: A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide) - by Nilesh Barla, PerceptronAI
+* [Human pose estimation with deep learning: Overview for 2022](https://blog.superannotate.com/human-pose-estimation-with-deep-learning/?msclkid=8a7ae7edc24311ecb8e6e3c985afb67e) - blog of superannotate
 * [A Review of Human Activity Recognition Methods](https://www.frontiersin.org/articles/10.3389/frobt.2015.00028/full) - a bit old review, articles before 2015
 * [Which one is the best algorithm for video action recognition?](https://medium.com/apache-mxnet/which-one-is-the-best-algorithm-for-video-action-recognition-298fb5c4ad4f) - GluonCV 0.9.0 provides a large model zoo for video action recognition and tutorial
 * [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567) - Amazon, summary of video action recognition research papers till 2020
@@ -31,10 +35,6 @@ Action recognition has been progrerssing very quickly, covering the field of gam
 
 ## Pose Estimation
 ### Human Pose Estimation Literature
-* [VISO.AI, Human Pose Estimation with Deep Learning – Ultimate Overview in 2022](https://viso.ai/deep-learning/pose-estimation-ultimate-overview/) - by Elisha Odemakinde, promoting VISO Suite
-* [A Comprehensive Guide on Human Pose Estimation](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/) - by Mrinal Singh Walia
-* [V7labs: A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide) - by Nilesh Barla, PerceptronAI
-* [Human pose estimation with deep learning: Overview for 2022](https://blog.superannotate.com/human-pose-estimation-with-deep-learning/?msclkid=8a7ae7edc24311ecb8e6e3c985afb67e) - blog of superannotate
 
 ### Pose Estimation Platform
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
